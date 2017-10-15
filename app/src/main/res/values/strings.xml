@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise3</string>
+    <string name="lan_anh">Lan Anh</string>
+    <string name="huu_duc">Hữu Đức</string>
+    <string name="thanh_hoai">Thanh Hoài</string>
+    <string name="huu_trung">Hữu Trung</string>
+    <string name="have_an_account">Already have an account.</string>
+    <string name="login_here">Login here</string>
+</resources>
